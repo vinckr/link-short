@@ -1,8 +1,8 @@
 package database
 
 import (
-	"github.com/gen1us2k/shorts/config"
-	"github.com/gen1us2k/shorts/model"
+	"github.com/vinckr/link-short/config"
+	"github.com/vinckr/link-short/model"
 )
 
 type (

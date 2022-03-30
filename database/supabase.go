@@ -6,9 +6,9 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/gen1us2k/shorts/config"
-	"github.com/gen1us2k/shorts/model"
 	"github.com/supabase/postgrest-go"
+	"github.com/vinckr/link-short/config"
+	"github.com/vinckr/link-short/model"
 )
 
 type Supabase struct {

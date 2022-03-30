@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	"github.com/gen1us2k/shorts/api"
-	"github.com/gen1us2k/shorts/config"
+	"github.com/vinckr/link-short/api"
+	"github.com/vinckr/link-short/config"
 )
 
 func main() {

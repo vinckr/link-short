@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/gen1us2k/shorts/config"
 	"github.com/gin-gonic/gin"
+	"github.com/vinckr/link-short/config"
 )
 
 type (

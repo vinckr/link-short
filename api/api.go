@@ -5,11 +5,11 @@ import (
 	"net/http"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/gen1us2k/shorts/config"
-	"github.com/gen1us2k/shorts/database"
-	"github.com/gen1us2k/shorts/middleware"
-	"github.com/gen1us2k/shorts/model"
 	"github.com/gin-gonic/gin"
+	"github.com/vinckr/link-short/config"
+	"github.com/vinckr/link-short/database"
+	"github.com/vinckr/link-short/middleware"
+	"github.com/vinckr/link-short/model"
 )
 
 type (
