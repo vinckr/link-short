@@ -5,7 +5,9 @@ go 1.17
 require (
 	github.com/davecgh/go-spew v1.1.1
 	github.com/gin-gonic/gin v1.7.7
+	github.com/jmoiron/sqlx v1.3.4
 	github.com/kelseyhightower/envconfig v1.4.0
+	github.com/lib/pq v1.10.4
 	github.com/supabase/postgrest-go v0.0.6
 )
 
